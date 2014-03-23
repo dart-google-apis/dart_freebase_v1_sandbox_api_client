@@ -11,3 +11,4 @@ export 'package:google_freebase_v1_sandbox_api/src/client_base.dart' show APIReq
 part 'src/client/client.dart';
 part 'src/client/schemas.dart';
 part 'src/client/resources.dart';
+part 'src/client/utils.dart';
