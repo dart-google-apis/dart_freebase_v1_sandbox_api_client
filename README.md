@@ -14,7 +14,7 @@ Adding dependency to pubspec.yaml
 
 ```
   dependencies:
-    google_freebase_v1_sandbox_api: '>=0.4.3'
+    google_freebase_v1_sandbox_api: '>=0.4.4'
 ```
 
 For web applications:
